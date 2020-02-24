@@ -5,3 +5,7 @@
 исполняемый файл:
 `C:\Users\Администратор\go\go1.14rc1\bin\go.exe build -o C:\ch1_go.exe C:/go-education/ch1/helloworld.go`
 `C:\Users\Сергей\go\go1.14rc1\bin\go.exe build -o C:\ch1_go.exe C:/go-education/ch1/helloworld.go`
+
+
+Сайт с примерами программ на go:
+https://gobyexample.ru/values.html
