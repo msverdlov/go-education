@@ -21,7 +21,7 @@ func main() {
 		fmt.Println("loop")
 		const d = 3e20 / k
 		fmt.Println(d)
-		//fmt.Println(int64(d))
+		//fmt.Println(int64(dh))
 		fmt.Println(math.Sin(k))
 		break
 	}
